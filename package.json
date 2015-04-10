@@ -1,8 +1,8 @@
 {
-  "name": "mac-classic",
+  "name": "original-mac-classic",
   "theme": "syntax",
-  "version": "0.1.0",
-  "description": "A classic mac theme for Atom",
+  "version": "0.0.0",
+  "description": "A port of the original mac-classic theme",
   "repository": "https://github.com/savageboy74/mac-classic",
   "license": "MIT",
   "engines": {
