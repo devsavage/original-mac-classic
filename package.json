@@ -1,7 +1,7 @@
 {
   "name": "original-mac-classic",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A port of the original mac-classic theme",
   "repository": "https://github.com/savageboy74/original-mac-classic",
   "license": "MIT",
