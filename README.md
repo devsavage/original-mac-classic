@@ -1,3 +1,3 @@
 # mac-classic theme
 
-A classic mac theme for Atom.
+A port of the original mac-classic theme updated for the newest version of Atom.
