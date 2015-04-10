@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.1.0",
   "description": "A port of the original mac-classic theme",
-  "repository": "https://github.com/savageboy74/mac-classic",
+  "repository": "https://github.com/savageboy74/original-mac-classic",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
