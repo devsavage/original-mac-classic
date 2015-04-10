@@ -1,0 +1,11 @@
+{
+  "name": "mac-classic",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A classic mac theme for Atom",
+  "repository": "https://github.com/savageboy74/mac-classic",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
