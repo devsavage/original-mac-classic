@@ -2,8 +2,8 @@
   "name": "original-mac-classic",
   "theme": "syntax",
   "version": "0.6.2",
-  "description": "A port of the original mac-classic theme",
-  "repository": "https://github.com/savageboy74/original-mac-classic",
+  "description": "A port of the original mac-classic theme. This theme has been updated to mac-classic-syntax.",
+  "repository": "https://github.com/devsavage/original-mac-classic",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
