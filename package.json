@@ -2,7 +2,7 @@
   "name": "original-mac-classic",
   "theme": "syntax",
   "version": "0.6.2",
-  "description": "A port of the original mac-classic theme. This theme has been updated to mac-classic-syntax.",
+  "description": "*DEPRECATED* Use 'mac-classic-sytax' package for the updated version! A port of the original mac-classic theme.",
   "repository": "https://github.com/devsavage/original-mac-classic",
   "license": "MIT",
   "engines": {
